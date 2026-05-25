@@ -2,7 +2,7 @@
 
 <img src="assets/LogoPawter.png" alt="Pawter Logo" width="120" />
 
-# 🐾 Pawter
+# Pawter
 ---
 ## ¿Qué es?
 
@@ -14,7 +14,7 @@ Pawter es una aplicación móvil desarrollada en Flutter que conecta a clientes 
 
 Para probar la aplicación en tu dispositivo Android, puedes instalar directamente el archivo APK siguiendo estos pasos:
 
-1. *Descarga el APK:* Ve a la sección de *Releases* (Lanzamientos) en este repositorio de GitHub y descarga el archivo con extensión .apk más reciente.
+1. *Descarga la APK:* Ve a la sección de *Releases* (Lanzamientos) en este repositorio de GitHub y descarga el archivo con extensión .apk más reciente.
 2. *Permite fuentes desconocidas:* Si es la primera vez que instalas una app fuera de Google Play, tu teléfono te pedirá activar el permiso de "Instalar aplicaciones desconocidas" para tu navegador o gestor de archivos.
 3. *Instalación:* Abre el archivo descargado, pulsa en *Instalar* y, una vez finalizado el proceso, ya podrás iniciar *Pawter* desde tu menú de aplicaciones.
 4. *Crea un usuario:* Al crear tu usuario en el registro, ve a tu correo y verifícalo. (Es muy probable que el correo se encuentre en correos no deseados).
@@ -40,13 +40,13 @@ Para probar la aplicación en tu dispositivo Android, puedes instalar directamen
 
 | Capa | Uso |
 |---|---|
-| UI | Flutter + Material 3 |
-| Estado | Provider + ChangeNotifier |
-| Backend | Firebase Realtime Database |
+| UI | Flutter + Material |
+| Estado | Provider |
+| Datos | Firebase Realtime Database |
 | Auth | Firebase Authentication |
 | Almacenamiento | Firebase Storage |
 | Navegación | go_router |
-| PDFs | pdf + printing |
+| PDFs | pdf & printing |
 
 
 ---
