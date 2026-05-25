@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1030780444957",
+    "project_id": "pawter-dgm96",
+    "storage_bucket": "pawter-dgm96.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030780444957:android:9c3138619440e57d9281f4",
+        "android_client_info": {
+          "package_name": "com.example.pawter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPay0ocgl0z8ClvgNg_x2OUXyzZS9LoFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
